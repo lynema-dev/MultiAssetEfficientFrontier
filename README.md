@@ -4,6 +4,6 @@ Example in R of how to create a scaleable Efficient Frontier from any number of 
 
 The second chart shows the price paths of the assets models together with that of the Optimal Portfolio.   
 
-![] (efficientfrontier.PNG)
+![] (efficientfrontier.png)
 
-![] (pricepath.PNG)
+![] (pricepath.png)
